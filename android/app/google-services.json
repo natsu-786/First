@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258569578595",
+    "project_id": "twentyfour-july",
+    "storage_bucket": "twentyfour-july.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258569578595:android:e59a103aa2bbd49d27b056",
+        "android_client_info": {
+          "package_name": "com.example.twentyfour_july"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258569578595-mosr5aboo857m3pb9fr6c1mk3spcdslk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCecNCFl2ul5Uhz-65-JmwOxx17f9O-bGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258569578595-mosr5aboo857m3pb9fr6c1mk3spcdslk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
