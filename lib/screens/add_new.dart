@@ -534,7 +534,7 @@ class lpoaddscreenState extends State<lpoaddscreen> {
                               width: 100,
                               color: Colors.teal,
                               child: const Text(
-                                'LPO List',
+                                'LPO Lists',
                                 style: TextStyle(color: Colors.white),
                               ),
                             ),
